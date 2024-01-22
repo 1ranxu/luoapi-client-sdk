@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.luoying</groupId>
     <artifactId>luoapi-client-sdk</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>luoapi-client-sdk</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -35,6 +35,19 @@
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
             <version>5.8.8</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-annotations</artifactId>
+            <version>2.3.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
         </dependency>
     </dependencies>
 

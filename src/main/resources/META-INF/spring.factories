@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.luoying.LuoApiClientConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.luoying.config.LuoApiClientConfig
