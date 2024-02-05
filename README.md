@@ -42,7 +42,7 @@
 
 
 
-### 前往**[接口空间 - 落API (luoapi.icu)](http://luoapi.icu/)**获取[开发者凭证](http://luoapi.icu/account/center)
+### 前往[接口空间 - 落API (luoapi.icu)](http://luoapi.icu/)获取[开发者凭证](http://luoapi.icu/account/center)
 
 
 
@@ -126,7 +126,7 @@ public void testWallPaperInterface(){
     luoApiRequest.setRequestParams(params);
     
     // 发起请求并打印
-	log.info(apiService.request(luoApiClient, luoApiRequest).toString());
+    log.info(apiService.request(luoApiClient,luoApiRequest).toString());
 }
 ```
 
