@@ -35,6 +35,7 @@ public class ApiServiceImpl implements ApiService {
      * 网关域名
      */
     private static final String GATEWAY_HOST = "http://gateway.luoapi.icu";
+    // private static final String GATEWAY_HOST = "http://localhost:8012";
 
     /**
      * @param luoApiClient 主动注入

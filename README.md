@@ -142,7 +142,7 @@ public void testWallPaperInterface(){
 
 ## 🤝贡献 
 
-如果您想为 **[接口空间 - 落API (luoapi.icu)](http://luoapi.icu/)**  提供好玩的接口，请随时提交拉取请求。
+如果您想为 **[接口空间 - 落API (luoapi.icu)](http://luoapi.icu/)**  提供好玩的接口，请随时提交issues。
 
 
 
